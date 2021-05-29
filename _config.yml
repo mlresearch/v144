@@ -1,0 +1,124 @@
+---
+booktitle: Proceedings of the 3rd Conference on Learning for Dynamics and Control
+shortname: L4DC
+volume: '144'
+year: '2021'
+start: 2021-07-06
+end: 2021-08-06
+published: 2021-05-29
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: L4DC2021
+month: 0
+cycles: false
+bibtex_editor: Jadbabaie, Ali and Lygeros, John and Pappas, George J. and A.~Parrilo,
+  Pablo and Recht, Benjamin and Tomlin, Claire J. and Zeilinger, Melanie N.
+editor:
+- given: Ali
+  family: Jadbabaie
+- given: John
+  family: Lygeros
+- given: George J.
+  family: Pappas
+- given: Pablo
+  family: A. Parrilo
+- given: Benjamin
+  family: Recht
+- given: Claire J.
+  family: Tomlin
+- given: Melanie N.
+  family: Zeilinger
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 3rd Conference on Learning for Dynamics and Control
+    Held in The Cloud on 06 July to 06 August 2021
+
+  Published as Volume 144 by the Proceedings of Machine Learning Research on 29 May 2021.
+
+  Volume Edited by:
+    Ali Jadbabaie
+    John Lygeros
+    George J. Pappas
+    Pablo A. Parrilo
+    Benjamin Recht
+    Claire J. Tomlin
+    Melanie N. Zeilinger
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 06 Jul--06 Aug
+url: http://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v144"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v144
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v144
+email: ''
+conference:
+  name: Learning for Dynamics and Control
+  url: http://l4dc.org
+  location: The Cloud
+  dates:
+  - 2021-07-06
+  - 2021-07-07
+  - 2021-07-08
+  - 2021-07-09
+  - 2021-07-10
+  - 2021-07-11
+  - 2021-07-12
+  - 2021-07-13
+  - 2021-07-14
+  - 2021-07-15
+  - 2021-07-16
+  - 2021-07-17
+  - 2021-07-18
+  - 2021-07-19
+  - 2021-07-20
+  - 2021-07-21
+  - 2021-07-22
+  - 2021-07-23
+  - 2021-07-24
+  - 2021-07-25
+  - 2021-07-26
+  - 2021-07-27
+  - 2021-07-28
+  - 2021-07-29
+  - 2021-07-30
+  - 2021-07-31
+  - 2021-08-01
+  - 2021-08-02
+  - 2021-08-03
+  - 2021-08-04
+  - 2021-08-05
+  - 2021-08-06
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v144/l4dc2021.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v144/l4dc2021.bib
