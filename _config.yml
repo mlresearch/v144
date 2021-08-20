@@ -3,8 +3,8 @@ booktitle: Proceedings of the 3rd Conference on Learning for Dynamics and Contro
 shortname: L4DC
 volume: '144'
 year: '2021'
-start: 2021-07-06
-end: 2021-08-06
+start: 2021-06-07
+end: 2021-06-08
 published: 2021-05-29
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -48,7 +48,8 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
-date_str: 06 Jul--06 Aug
+date_str: 07 -- 08 June
+url: https://proceedings.mlr.press
 author:
   name: PMLR
 baseurl: "/v144"
@@ -83,38 +84,8 @@ conference:
   url: http://l4dc.org
   location: The Cloud
   dates:
-  - 2021-07-06
-  - 2021-07-07
-  - 2021-07-08
-  - 2021-07-09
-  - 2021-07-10
-  - 2021-07-11
-  - 2021-07-12
-  - 2021-07-13
-  - 2021-07-14
-  - 2021-07-15
-  - 2021-07-16
-  - 2021-07-17
-  - 2021-07-18
-  - 2021-07-19
-  - 2021-07-20
-  - 2021-07-21
-  - 2021-07-22
-  - 2021-07-23
-  - 2021-07-24
-  - 2021-07-25
-  - 2021-07-26
-  - 2021-07-27
-  - 2021-07-28
-  - 2021-07-29
-  - 2021-07-30
-  - 2021-07-31
-  - 2021-08-01
-  - 2021-08-02
-  - 2021-08-03
-  - 2021-08-04
-  - 2021-08-05
-  - 2021-08-06
+  - 2021-06-07
+  - 2021-06-08
 analytics:
   google:
     tracking_id: UA-92432422-1
